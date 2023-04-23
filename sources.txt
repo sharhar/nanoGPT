@@ -1,0 +1,3 @@
+https://huggingface.co/datasets/merve/poetry/blob/main/poetry.csv
+https://www.kaggle.com/datasets/harshalgadhe/poem-generation
+https://www.kaggle.com/datasets/michaelarman/poemsdataset

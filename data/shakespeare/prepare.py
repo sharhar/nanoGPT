@@ -12,6 +12,9 @@ if not os.path.exists(input_file_path):
 
 with open(input_file_path, 'r') as f:
     data = f.read()
+
+print(data)
+
 n = len(data)
 train_data = data[:int(n*0.9)]
 val_data = data[int(n*0.9):]
